@@ -4,7 +4,7 @@
 <div>
   <a href="https://www.instagram.com/rc.arvalho/">Instagram</a>
 </div>
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RogerCarvalhoUEPB.RogerCarvalhoUEPB"/>
 Olá, Mundo!
 
 Meu nome é Roger Natan Carvalho Silva. Atualmente estou no 6º período de Ciência da Computação na Universidade Estadual da Paraíba. 
