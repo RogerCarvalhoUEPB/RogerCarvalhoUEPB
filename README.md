@@ -28,5 +28,5 @@ Caso queira se comunicar comigo, sinta-se livre para me contar via email acadêm
 </div>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RogerCarvalhoUEPB/RogerCarvalhoUEPB/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RogerCarvalhoUEPB/RogerCarvalhoUEPB/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rogercarvalhouepb/rogercarvalhouepb/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rogercarvalhouepb/rogercarvalhouepb/output/github-contribution-grid-snake-dark.svg">
